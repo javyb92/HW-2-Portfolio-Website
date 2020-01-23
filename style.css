@@ -1,0 +1,127 @@
+*{
+    background-color: whitesmoke;
+    font-family: 'Alata', sans-serif;
+  } 
+
+  #MainBody{
+    background-color: lightgray;
+    font-weight: lighter;
+  }
+
+  #MainBodyPortfolio{
+    background-color: lightgray;
+    height: 600px;
+  }
+
+
+
+  #thumbnail{
+    height: 200px;
+  }
+
+  #PortfolioRow{
+    background-color: lightgrey;
+    height: 0px;
+  }
+
+  /* .container-fluid{
+    border: 4px dotted red;
+  } */
+
+  #space{
+      height: 100px;
+      color: whitesmoke;
+  }
+
+  #space2{
+    height: 70px;
+    /* border: 5px dotted blue; */
+    display: block;
+    background-color:whitesmoke;
+  }
+
+  #space3{
+    background-color: whitesmoke;
+  }
+
+  footer{
+    background-color: red;
+    border-top: 5px solid lightgray;
+    bottom: 0px;
+    height: 80px;
+    width: 100%;
+    line-height: 0px;
+  }
+
+  #footertext{
+    background-color: red;
+    padding: 5px;
+    position: bottom;
+    
+  }
+
+  header{
+    height: 50px;
+  }
+
+  .navbar{
+    background-color: #ff0000;
+    border-bottom: 5px solid lightgray;
+    font-weight: bold;
+  }
+
+  .navbar-brand{
+    font-size: 28px;
+    /* margin-left: 110px; */
+  }
+
+  #navbarmenu{
+      background-color: red;
+  }
+
+  .navbar .navbar-nav li a{
+      background-color: red;
+  }
+
+  /* [class^="col-"]{
+    border: 5px dotted blue;
+  } */
+
+  h1{
+    background-color: lightgray;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  p{
+    background-color: lightgray;
+    font-size: 16x;
+  }
+
+  #thumbnail{
+    background-color: lightgray;
+    
+  }
+
+
+  .form{
+    background-color: lightgrey;
+  }
+
+  label{
+    background-color: lightgrey;
+  }
+
+  .form-group{
+    background-color: lightgrey;
+    margin-bottom: 0px;
+  }
+
+  .main{
+    background-color: whitesmoke;
+  }
+
+  #placeholder.jpg{
+    height: 200px;
+    width: 200px;
+  }
